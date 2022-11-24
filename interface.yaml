@@ -1,0 +1,10 @@
+name: vault-ha
+summary: Vault simple peer relation interface
+maintainer: OpenStack Charmers <openstack-charmers@lists.ubuntu.com>
+ignore:
+  - 'unit_tests'
+  - '.stestr.conf'
+  - 'test-requirements.txt'
+  - 'tox.ini'
+  - '.gitignore'
+  - '.tox'
